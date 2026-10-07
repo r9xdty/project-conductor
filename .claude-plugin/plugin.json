@@ -1,0 +1,8 @@
+{
+  "name": "project-conductor",
+  "description": "Keep a large skill library out of context; activate only the skills each project phase needs. Planning/reasoning skills stay always on.",
+  "version": "0.2.0",
+  "author": { "name": "Mustafa Altuntaş", "url": "https://github.com/r9xdty" },
+  "homepage": "https://github.com/r9xdty/project-conductor",
+  "license": "MIT"
+}

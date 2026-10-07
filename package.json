@@ -1,0 +1,14 @@
+{
+  "name": "project-conductor",
+  "version": "0.2.0",
+  "description": "Keep a huge Agent Skills library out of your agent's context and activate only the skills each project phase needs. Works with Claude Code, Codex, Gemini CLI, Kimi, Cursor, Copilot, OpenCode and any SKILL.md agent.",
+  "type": "module",
+  "bin": { "project-conductor": "bin/conductor.js" },
+  "files": ["bin", "src", "skills", "README.md", "LICENSE"],
+  "engines": { "node": ">=18.17" },
+  "scripts": { "test": "node --test" },
+  "keywords": ["agent-skills", "skills", "claude-code", "codex", "gemini-cli", "cursor", "copilot", "opencode", "context-engineering"],
+  "author": "Mustafa Altuntaş (https://github.com/r9xdty)",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/r9xdty/project-conductor.git" }
+}

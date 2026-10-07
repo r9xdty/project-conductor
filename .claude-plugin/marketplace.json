@@ -1,0 +1,17 @@
+{
+  "name": "project-conductor",
+  "owner": {
+    "name": "Mustafa Altuntaş",
+    "url": "https://github.com/r9xdty"
+  },
+  "metadata": {
+    "description": "Phase-based skill activation for Claude Code and other SKILL.md agents."
+  },
+  "plugins": [
+    {
+      "name": "project-conductor",
+      "source": "./",
+      "description": "Phase-based skill activation with an out-of-context skill vault."
+    }
+  ]
+}
